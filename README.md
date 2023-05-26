@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android, and Flutter**
 
-- 👨‍💻 I'm interested in [Cyber Security](Cyber Security)
+- 👨‍💻 I'm interested in **Cyber Security**
 
 - 📫 How to reach me **ahmaidyt@gmail.com**
 
