@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-15852
-Fork on GitHub
-4389
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Ahmaide Awawda</h1>
 - 🔭 I’m currently working on **a Context-Aware Recommender System for Palestinian Farmers (Agriculture) in the Environment of IoT**
 
