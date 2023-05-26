@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmaide0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmaide0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmaide awawdah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmaide awawdah" height="30" width="40" /></a>
-<a href="https://fb.com/ahmaide taha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmaide taha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmaide-awawdah-57b220208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmaide awawdah" height="30" width="40" /></a>
+<a href="https://fb.com/ahmaidy.t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmaide taha" height="30" width="40" /></a>
 <a href="https://instagram.com/imahmaide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imahmaide" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmaidyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmaidyt" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ahmaide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmaide" height="30" width="40" /></a>
