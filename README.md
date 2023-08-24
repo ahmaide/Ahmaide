@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Context-Aware Recommender System for Palestinian Farmers (Agriculture) in the Environment of IoT**
 
-- 🌱 I’m currently learning **Android, and Flutter**
+- 🌱 I’m currently learning **Spring Boot Framework**
 
 - 👨‍💻 I'm interested in **Cyber Security**
 
