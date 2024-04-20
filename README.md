@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmaide Awawda</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmaide&label=Profile%20views&color=0e75b6&style=flat" alt="ahmaide" /> </p>
 
-- 🔭 I’m currently working on **a Context-Aware Recommender System for Palestinian Farmers (Agriculture) in the Environment of IoT**
+- 🔭 I’m currently working on **Developing my skills as a Backend Developer**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 I'm interested in **Cyber Security**
+- 👨‍💻 I'm interested in **Artificial Intelligence**
 
 - 📫 How to reach me **ahmaidyt@gmail.com**
 
