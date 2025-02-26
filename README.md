@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmaide Awawda</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmaide&label=Profile%20views&color=0e75b6&style=flat" alt="ahmaide" /> </p>
 
-- 🔭 I’m currently working on **Developing my skills as a Backend Developer**
+- 🔭 I’m currently working on **Developing my skills as a Full Stack Developer**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👨‍💻 I'm interested in **Artificial Intelligence**
 
